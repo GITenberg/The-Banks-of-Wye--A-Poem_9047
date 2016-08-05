@@ -1,0 +1,27 @@
+_repo: The-Banks-of-Wye--A-Poem_9047
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bloomfield, Robert
+    birthdate: 1766
+    deathdate: 1823
+    gutenberg_agent_id: '2953'
+    url: http://www.gutenberg.org/2009/agents/2953
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Bloomfield
+description: A description of an excursion down the Wye and through part of South
+  Wales in the summer of 1807.
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wye, River (Wales and England) -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Wales, South -- Poetry'
+- GITenberg
+title: 'The Banks of Wye: A Poem'
+url: http://www.gutenberg.org/ebooks/9047
